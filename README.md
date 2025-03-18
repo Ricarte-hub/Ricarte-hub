@@ -35,7 +35,7 @@
 
 ### 🏆 Projetos em Destaque
 
-- [Estruturas de Dados](https://github.com/Ricarte-hub/EstruturasData) - Implementação de estruturas de dados fundamentais em Python
+- [Estruturas de Dados](https://github.com/Ricarte-hub/EstruturasdeDados) - Implementação de estruturas de dados fundamentais em Python
 - [Projeto em desenvolvimento] - Em breve
 
 ### 📚 Educação
